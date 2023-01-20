@@ -1,0 +1,10 @@
+.footer__menu-link {
+  text-decoration: none;
+  color: #fff;
+  transition: opacity .3s ease-in-out;
+
+}
+
+.footer__menu-link:hover {
+  opacity: 0.8;
+}
